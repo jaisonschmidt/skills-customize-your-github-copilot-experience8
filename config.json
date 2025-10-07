@@ -16,7 +16,7 @@
           "name": "Starter Code",
           "file": "starter-code.py",
           "type": "python"
-        }
+  }
       ]
     },
     {
@@ -56,6 +56,20 @@
           "name": "Sample Dataset",
           "file": "data.csv",
           "type": "csv"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Construindo APIs REST com FastAPI",
+      "description": "Desenvolva uma API REST para cadastro e consulta de usuários usando FastAPI.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-10-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
         }
       ]
     }
